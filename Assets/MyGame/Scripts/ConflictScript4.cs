@@ -4,7 +4,10 @@ using UnityEngine;
 
 public class ConflictScript4 : MonoBehaviour
 {
+
     private string main;
+    private string conflict4;
+
 
     // Start is called before the first frame update
     void Start()
