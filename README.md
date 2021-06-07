@@ -1,13 +1,13 @@
-# Template2D-Unity202015f1
+# SceneConflict-pkikl
 
 ### Project description: 
 Introduction/Project summary 
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Windows 10, Unity 2020f1.15, Visual Studio 2019
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL
 
 ### Visuals: 
 Screenshots (concept and experience), Video
@@ -24,5 +24,6 @@ incl. progress in percent
 ### Limitations: 
 
 ### Lessons Learned: 
+Making and solving a Scene Conflict
 
-Copyright by you :)
+Copyright by Peter Kikl
